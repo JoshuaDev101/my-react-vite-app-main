@@ -2,6 +2,6 @@ name: my-react-vite-app
 
 services:
   app:
-    image: constrod/my-react-vite-app
+    image: joshuadev101/my-react-vite-app-main:latest
     ports:
       - '8000:80'
